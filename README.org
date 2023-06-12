@@ -1,0 +1,10 @@
+* delta-debug
+
+Common Lisp implementation of delta debugging
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eschulte/delta-debug.git   |
+| commit  | 8a6c4f5  |
+| systems | delta-debug |
+|---------+-------------------------------------------|
+
